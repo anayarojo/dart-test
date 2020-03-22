@@ -13,7 +13,7 @@ main() {
   const constPeople = ['Raul', 'Martin', 'Jose', 'Manuel', 'Ana', 'Alejandra'];
 
   finalPeople.add('Eric');
-  // constPeople.add('Eric');
+  // constPeople.add('Eric') // No se puede;
 
   print(finalPeople);
 }
